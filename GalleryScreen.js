@@ -1,4 +1,5 @@
 /* eslint-disable react-native/no-inline-styles */
+//creator hungpv@hblab.vn
 //import liraries
 import React, {Component} from 'react';
 import {
